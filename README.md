@@ -1,3 +1,4 @@
 # LoginTest
 A Simple Login Form
-![Captura de pantalla 2024-04-15 010345](https://github.com/Mystedev/LoginTest/assets/138665791/8aaabeee-f56a-47e5-9db0-8b370db38bad)
+![image](https://github.com/Mystedev/LoginTest/assets/138665791/eb939597-4ee8-4837-9c3f-48cef870357b)
+
